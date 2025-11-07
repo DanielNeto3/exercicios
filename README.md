@@ -1,2 +1,3 @@
 # exercicios
-só um lugarzinho pra guarda isso
+só um lugarzinho pra guarda essas coisas
+
