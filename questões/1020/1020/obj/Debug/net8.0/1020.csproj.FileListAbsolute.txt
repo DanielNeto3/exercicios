@@ -1,0 +1,14 @@
+C:\Users\Danie\source\repos\1020\1020\bin\Debug\net8.0\1020.exe
+C:\Users\Danie\source\repos\1020\1020\bin\Debug\net8.0\1020.deps.json
+C:\Users\Danie\source\repos\1020\1020\bin\Debug\net8.0\1020.runtimeconfig.json
+C:\Users\Danie\source\repos\1020\1020\bin\Debug\net8.0\1020.dll
+C:\Users\Danie\source\repos\1020\1020\bin\Debug\net8.0\1020.pdb
+C:\Users\Danie\source\repos\1020\1020\obj\Debug\net8.0\1020.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danie\source\repos\1020\1020\obj\Debug\net8.0\1020.AssemblyInfoInputs.cache
+C:\Users\Danie\source\repos\1020\1020\obj\Debug\net8.0\1020.AssemblyInfo.cs
+C:\Users\Danie\source\repos\1020\1020\obj\Debug\net8.0\1020.csproj.CoreCompileInputs.cache
+C:\Users\Danie\source\repos\1020\1020\obj\Debug\net8.0\1020.dll
+C:\Users\Danie\source\repos\1020\1020\obj\Debug\net8.0\refint\1020.dll
+C:\Users\Danie\source\repos\1020\1020\obj\Debug\net8.0\1020.pdb
+C:\Users\Danie\source\repos\1020\1020\obj\Debug\net8.0\1020.genruntimeconfig.cache
+C:\Users\Danie\source\repos\1020\1020\obj\Debug\net8.0\ref\1020.dll
